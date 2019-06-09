@@ -7,7 +7,7 @@ class Card extends Component {
     render() { 
         return ( 
             <div>
-                <p>Card</p>
+                <p>Lehman </p>
             </div>
          );
     }
